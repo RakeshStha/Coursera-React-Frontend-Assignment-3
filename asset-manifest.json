@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Coursera-React-Frontend-Assignment-3/static/css/main.bb5574dc.chunk.css",
+    "main.js": "/Coursera-React-Frontend-Assignment-3/static/js/main.aceb1c71.chunk.js",
+    "main.js.map": "/Coursera-React-Frontend-Assignment-3/static/js/main.aceb1c71.chunk.js.map",
+    "runtime-main.js": "/Coursera-React-Frontend-Assignment-3/static/js/runtime-main.86693f37.js",
+    "runtime-main.js.map": "/Coursera-React-Frontend-Assignment-3/static/js/runtime-main.86693f37.js.map",
+    "static/css/2.a3b2983b.chunk.css": "/Coursera-React-Frontend-Assignment-3/static/css/2.a3b2983b.chunk.css",
+    "static/js/2.07e1d084.chunk.js": "/Coursera-React-Frontend-Assignment-3/static/js/2.07e1d084.chunk.js",
+    "static/js/2.07e1d084.chunk.js.map": "/Coursera-React-Frontend-Assignment-3/static/js/2.07e1d084.chunk.js.map",
+    "index.html": "/Coursera-React-Frontend-Assignment-3/index.html",
+    "static/css/2.a3b2983b.chunk.css.map": "/Coursera-React-Frontend-Assignment-3/static/css/2.a3b2983b.chunk.css.map",
+    "static/css/main.bb5574dc.chunk.css.map": "/Coursera-React-Frontend-Assignment-3/static/css/main.bb5574dc.chunk.css.map",
+    "static/js/2.07e1d084.chunk.js.LICENSE.txt": "/Coursera-React-Frontend-Assignment-3/static/js/2.07e1d084.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/Coursera-React-Frontend-Assignment-3/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86693f37.js",
+    "static/css/2.a3b2983b.chunk.css",
+    "static/js/2.07e1d084.chunk.js",
+    "static/css/main.bb5574dc.chunk.css",
+    "static/js/main.aceb1c71.chunk.js"
+  ]
+}
